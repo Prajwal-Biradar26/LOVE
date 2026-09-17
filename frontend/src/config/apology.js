@@ -153,9 +153,9 @@ export const apologyConfig = {
 
   // Background Music configuration
   music: {
-    trackName: "Romantic Piano Chords & Chimes",
+    trackName: "romantic.mp3",
     src: "/assets/music/romantic.mp3",
     autoPlay: true,
-    note: "Music starts playing automatically when the site opens",
+    note: "Plays romantic.mp3 automatically when opened",
   }
 };
